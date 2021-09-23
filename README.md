@@ -49,5 +49,4 @@ If you want to support my projects, you can star the projects.
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/619126609756160000)](https://discord.com/users/619126609756160000)
 
