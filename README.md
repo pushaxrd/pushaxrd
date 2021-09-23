@@ -43,3 +43,11 @@ If you want to support my projects, you can star the projects.
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/788px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere" width="40" height="40"/> </a> 
+
+
+
+
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/619126609756160000)](https://discord.com/users/619126609756160000)
+
