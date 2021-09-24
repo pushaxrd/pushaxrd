@@ -18,13 +18,6 @@ I usually do back-end programming, front-end is not very interesting to me.\
 I like to listen to music while dealing with software.\
 If you want to support my projects, you can star the projects.
 
-<h3 align="left">Contact with me:</h3>
-
-<a href="https://discord.com/users/619126609756160000"><img align="left" src="https://img.shields.io/badge/Discord-✰ Pusha'mı La O %238373-8EA1E1?style=for-the-badge&logo=discord" /> </a></a>
-</p>
-<p align="left">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="1" heigth="1">
-</p>
 
 ### 🛠 &nbsp;Software Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
