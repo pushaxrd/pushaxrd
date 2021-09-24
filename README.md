@@ -12,13 +12,13 @@
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=recepefsanesi&theme=dark&show_icons=true&locale=en" alt="Recep Efsanesi"  ></p>
 
-Turkis.\
+Turkis.
 
 🎓 Merhaba Ben 19 Yaşındayım Geliştiriciyim.\
 🌱 Yapay Zeka, Homomorfik Şifreleme ve Bilgisayarla Görme hakkında daha fazla bilgi edinme yolundayım.\
 ✍️ Boş zamanlarımda Muzik Dinliyorum, Film İzliyorum, Spor Yapiyorum, Motorla Sürüyorum, Gibi Seyler Yapiyorum Ve hobilerim arasında Kitap Okuyorum.
 
-İngiliz.\
+İngiliz.
 
 🎓 Hello I'm 19 Years Old Developer.\
 🌱 I'm on my way to learn more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
