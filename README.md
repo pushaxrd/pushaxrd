@@ -43,6 +43,10 @@ Turkis.
 <a href="https://discord.com/users/619126609756160000"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 <a href="https://instagram.com/pusha__23"><img src="https://img.shields.io/badge/@pusha__23-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
+<img src="https://komarev.com/ghpvc/?username=✰ Pusha-js&label=Profile%20views&color=7de27d&style=flat"> 
+<div align="center">
+    <a href="https://discord.com/users/619126609756160000" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/619126609756160000"></a>
+</div>
 
 
 
