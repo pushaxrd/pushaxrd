@@ -8,7 +8,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=recepefsanesi&theme=dark&show_icons=true&locale=en&layout=compact" alt="Recep Efsanesi" /></p>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/904104903532740648?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/904104903532740648)
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=recepefsanesi&theme=dark&show_icons=true&locale=en" alt="Recep Efsanesi"  ></p>
 
