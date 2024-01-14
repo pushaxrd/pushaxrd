@@ -1,12 +1,12 @@
 # Hi there , I'm Pusha 
 ![version :17.10.2021](https://img.shields.io/badge/version-17.10.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=recepefsanesi&color=red)&nbsp;
-[![GitHub recepefsanesi](https://img.shields.io/github/followers/recepefsanesi?label=follow&style=social)](https://github.com/recepefsanesi)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=pushaxrd&color=red)&nbsp;
+[![GitHub recepefsanesi](https://img.shields.io/github/followers/recepefsanesi?label=follow&style=social)](https://github.com/pushaxrd)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-<a href="https://instagram.com/jaylenelchavo"><img src="https://img.shields.io/badge/@pusha__23-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/pusha__23"><img src="https://img.shields.io/badge/@pusha__23-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 My Server
-https://discord.gg/marino
+https://discord.gg/themarino
 
 
 ## Langauges I Know:
@@ -19,6 +19,6 @@ https://discord.gg/marino
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=recepefsanesi&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=recepefsanesi&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api?username=pushaxrd&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=pushaxrd&theme=radical" />
 </p>
